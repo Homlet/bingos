@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-13T21:44:45.236Z",
+  "updatedAt": "2025-12-13T21:44:46.232Z",
   "size": 5,
   "items": [
     {
@@ -59,7 +59,8 @@
       "text": "All hands reminder"
     },
     {
-      "text": "Spreadsheet demo"
+      "text": "Spreadsheet demo",
+      "checkedAt": "2025-12-13T21:44:46.232Z"
     },
     {
       "text": "Slack notification chime"

@@ -1,33 +1,85 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-12T12:00:00Z",
+  "updatedAt": "2025-12-13T21:40:41.846Z",
   "size": 5,
   "items": [
-    { "text": "Someone says synergy" },
-    { "text": "Unexpected production deploy", "checkedAt": "2025-12-11T14:23:11Z" },
-    { "text": "Late joiner asks for recap" },
-    { "text": "Dog on camera" },
-    { "text": "Meeting runs long" },
-    { "text": "Jira board pulled up" },
-    { "text": "Laptop stickers discussion" },
-    { "text": "Holiday sweater cameo" },
-    { "text": "Someone drinks from branded mug" },
-    { "text": "Wifi drop" },
-    { "text": "Deploy mention" },
-    { "text": "Active speaker muted" },
-    { "text": "Someone says let's park it" },
-    { "text": "Screen share fails" },
-    { "text": "All hands reminder" },
-    { "text": "Spreadsheet demo" },
-    { "text": "Slack notification chime" },
-    { "text": "New hire intro" },
-    { "text": "Automated test flake" },
-    { "text": "Team shoutout" },
-    { "text": "Emoji reaction wave" },
-    { "text": "Camera off apology" },
-    { "text": "Leveling question" },
-    { "text": "Quarterly goal mention" },
-    { "text": "Someone references this bingo" }
+    {
+      "text": "Someone says synergy"
+    },
+    {
+      "text": "Unexpected production deploy",
+      "checkedAt": "2025-12-11T14:23:11Z"
+    },
+    {
+      "text": "Late joiner asks for recap",
+      "checkedAt": "2025-12-13T21:40:41.846Z"
+    },
+    {
+      "text": "Dog on camera"
+    },
+    {
+      "text": "Meeting runs long"
+    },
+    {
+      "text": "Jira board pulled up"
+    },
+    {
+      "text": "Laptop stickers discussion"
+    },
+    {
+      "text": "Holiday sweater cameo"
+    },
+    {
+      "text": "Someone drinks from branded mug"
+    },
+    {
+      "text": "Wifi drop"
+    },
+    {
+      "text": "Deploy mention"
+    },
+    {
+      "text": "Active speaker muted"
+    },
+    {
+      "text": "Someone says let's park it"
+    },
+    {
+      "text": "Screen share fails"
+    },
+    {
+      "text": "All hands reminder"
+    },
+    {
+      "text": "Spreadsheet demo"
+    },
+    {
+      "text": "Slack notification chime"
+    },
+    {
+      "text": "New hire intro"
+    },
+    {
+      "text": "Automated test flake"
+    },
+    {
+      "text": "Team shoutout"
+    },
+    {
+      "text": "Emoji reaction wave"
+    },
+    {
+      "text": "Camera off apology"
+    },
+    {
+      "text": "Leveling question"
+    },
+    {
+      "text": "Quarterly goal mention"
+    },
+    {
+      "text": "Someone references this bingo"
+    }
   ]
 }

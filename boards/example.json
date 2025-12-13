@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-13T21:41:16.463Z",
+  "updatedAt": "2025-12-13T21:41:20.286Z",
   "size": 5,
   "items": [
     {
@@ -27,7 +27,8 @@
       "checkedAt": "2025-12-13T21:41:16.463Z"
     },
     {
-      "text": "Laptop stickers discussion"
+      "text": "Laptop stickers discussion",
+      "checkedAt": "2025-12-13T21:41:20.286Z"
     },
     {
       "text": "Holiday sweater cameo"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-15T09:17:37.542Z",
+  "updatedAt": "2025-12-15T09:17:38.880Z",
   "size": 5,
   "items": [
     {
@@ -67,8 +67,7 @@
       "checkedAt": "2025-12-13T21:45:35.544Z"
     },
     {
-      "text": "Slack notification chime",
-      "checkedAt": "2025-12-14T09:43:30.033Z"
+      "text": "Slack notification chime"
     },
     {
       "text": "New hire intro",

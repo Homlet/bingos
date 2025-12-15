@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-15T09:17:36.309Z",
+  "updatedAt": "2025-12-15T09:17:37.542Z",
   "size": 5,
   "items": [
     {
@@ -59,7 +59,8 @@
       "checkedAt": "2025-12-13T21:42:26.212Z"
     },
     {
-      "text": "All hands reminder"
+      "text": "All hands reminder",
+      "checkedAt": "2025-12-15T09:17:37.542Z"
     },
     {
       "text": "Spreadsheet demo",

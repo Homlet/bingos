@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-14T21:43:13.836Z",
+  "updatedAt": "2025-12-15T09:17:34.710Z",
   "size": 5,
   "items": [
     {
@@ -32,7 +32,8 @@
       "text": "Laptop stickers discussion"
     },
     {
-      "text": "Holiday sweater cameo"
+      "text": "Holiday sweater cameo",
+      "checkedAt": "2025-12-15T09:17:34.710Z"
     },
     {
       "text": "Someone drinks from branded mug"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-16T22:03:50.573Z",
+  "updatedAt": "2025-12-16T22:03:51.565Z",
   "size": 5,
   "items": [
     {
@@ -37,8 +37,7 @@
       "checkedAt": "2025-12-15T09:17:34.710Z"
     },
     {
-      "text": "Someone drinks from branded mug",
-      "checkedAt": "2025-12-15T17:31:54.365Z"
+      "text": "Someone drinks from branded mug"
     },
     {
       "text": "Wifi drop",

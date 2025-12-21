@@ -1,12 +1,11 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:20:20.477Z",
+  "updatedAt": "2025-12-21T21:20:22.280Z",
   "size": 5,
   "items": [
     {
-      "text": "Someone says synergy",
-      "checkedAt": "2025-12-13T21:41:15.121Z"
+      "text": "Someone says synergy"
     },
     {
       "text": "Unexpected production deploy",

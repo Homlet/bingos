@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:20:18.960Z",
+  "updatedAt": "2025-12-21T21:20:20.477Z",
   "size": 5,
   "items": [
     {
@@ -53,8 +53,7 @@
       "checkedAt": "2025-12-13T21:48:28.529Z"
     },
     {
-      "text": "Someone says let's park it",
-      "checkedAt": "2025-12-21T21:20:18.960Z"
+      "text": "Someone says let's park it"
     },
     {
       "text": "Screen share fails",

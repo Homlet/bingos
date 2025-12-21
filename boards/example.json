@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:26:41.659Z",
+  "updatedAt": "2025-12-21T21:26:42.664Z",
   "size": 5,
   "items": [
     {
@@ -85,7 +85,8 @@
       "text": "Leveling question"
     },
     {
-      "text": "Quarterly goal mention"
+      "text": "Quarterly goal mention",
+      "checkedAt": "2025-12-21T21:26:42.664Z"
     },
     {
       "text": "Someone references this bingo",

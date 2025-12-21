@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:24:20.541Z",
+  "updatedAt": "2025-12-21T21:24:28.081Z",
   "size": 5,
   "items": [
     {
@@ -17,7 +17,8 @@
       "text": "Dog on camera"
     },
     {
-      "text": "Meeting runs long"
+      "text": "Meeting runs long",
+      "checkedAt": "2025-12-21T21:24:28.081Z"
     },
     {
       "text": "Jira board pulled up"

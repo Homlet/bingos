@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:24:17.697Z",
+  "updatedAt": "2025-12-21T21:24:18.659Z",
   "size": 5,
   "items": [
     {
@@ -73,7 +73,8 @@
       "checkedAt": "2025-12-21T21:24:17.697Z"
     },
     {
-      "text": "Leveling question"
+      "text": "Leveling question",
+      "checkedAt": "2025-12-21T21:24:18.659Z"
     },
     {
       "text": "Quarterly goal mention"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-21T21:27:02.841Z",
+  "updatedAt": "2025-12-22T20:40:59.956Z",
   "size": 5,
   "items": [
     {
@@ -9,7 +9,8 @@
       "checkedAt": "2025-12-21T21:26:37.260Z"
     },
     {
-      "text": "Unexpected production deploy"
+      "text": "Unexpected production deploy",
+      "checkedAt": "2025-12-22T20:40:59.956Z"
     },
     {
       "text": "Late joiner asks for recap"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-22T20:40:59.956Z",
+  "updatedAt": "2025-12-22T20:41:01.207Z",
   "size": 5,
   "items": [
     {
@@ -79,7 +79,8 @@
       "text": "Emoji reaction wave"
     },
     {
-      "text": "Camera off apology"
+      "text": "Camera off apology",
+      "checkedAt": "2025-12-22T20:41:01.207Z"
     },
     {
       "text": "Leveling question"

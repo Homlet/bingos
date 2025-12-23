@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-22T21:01:38.958Z",
+  "updatedAt": "2025-12-23T20:12:39.436Z",
   "size": 5,
   "items": [
     {
@@ -12,7 +12,8 @@
       "text": "Unexpected production deploy"
     },
     {
-      "text": "Late joiner asks for recap"
+      "text": "Late joiner asks for recap",
+      "checkedAt": "2025-12-23T20:12:39.436Z"
     },
     {
       "text": "Dog on camera"

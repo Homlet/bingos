@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-24T20:31:20.232Z",
+  "updatedAt": "2025-12-24T20:31:21.140Z",
   "size": 5,
   "items": [
     {
@@ -72,7 +72,8 @@
       "checkedAt": "2025-12-24T20:31:20.232Z"
     },
     {
-      "text": "Team shoutout"
+      "text": "Team shoutout",
+      "checkedAt": "2025-12-24T20:31:21.140Z"
     },
     {
       "text": "Emoji reaction wave",

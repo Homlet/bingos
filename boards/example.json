@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-24T20:38:02.451Z",
+  "updatedAt": "2025-12-24T20:38:03.573Z",
   "size": 5,
   "items": [
     {
@@ -44,8 +44,7 @@
       "text": "Deploy mention"
     },
     {
-      "text": "Active speaker muted",
-      "checkedAt": "2025-12-24T20:31:07.766Z"
+      "text": "Active speaker muted"
     },
     {
       "text": "Someone says let's park it",

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-24T20:39:19.586Z",
+  "updatedAt": "2025-12-24T20:39:22.664Z",
   "size": 5,
   "items": [
     {
@@ -52,8 +52,7 @@
       "text": "Screen share fails"
     },
     {
-      "text": "All hands reminder",
-      "checkedAt": "2025-12-24T20:37:56.474Z"
+      "text": "All hands reminder"
     },
     {
       "text": "Spreadsheet demo"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-25T21:42:46.083Z",
+  "updatedAt": "2025-12-25T21:42:50.452Z",
   "size": 5,
   "items": [
     {
@@ -21,8 +21,7 @@
       "checkedAt": "2025-12-24T20:31:05.534Z"
     },
     {
-      "text": "Meeting runs long",
-      "checkedAt": "2025-12-25T21:42:46.083Z"
+      "text": "Meeting runs long"
     },
     {
       "text": "Jira board pulled up",

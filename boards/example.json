@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-26T21:58:00.596Z",
+  "updatedAt": "2025-12-26T21:58:03.250Z",
   "size": 5,
   "items": [
     {
@@ -15,7 +15,8 @@
       "text": "Late joiner asks for recap"
     },
     {
-      "text": "Dog on camera"
+      "text": "Dog on camera",
+      "checkedAt": "2025-12-26T21:58:03.250Z"
     },
     {
       "text": "Meeting runs long"

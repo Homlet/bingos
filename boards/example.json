@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-26T21:57:09.183Z",
+  "updatedAt": "2025-12-26T21:57:10.111Z",
   "size": 5,
   "items": [
     {
@@ -90,8 +90,7 @@
       "checkedAt": "2025-12-26T21:47:42.738Z"
     },
     {
-      "text": "Someone references this bingo",
-      "checkedAt": "2025-12-26T21:32:23.412Z"
+      "text": "Someone references this bingo"
     }
   ]
 }

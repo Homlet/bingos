@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-26T21:47:42.738Z",
+  "updatedAt": "2025-12-26T21:57:02.480Z",
   "size": 5,
   "items": [
     {
@@ -43,8 +43,7 @@
       "checkedAt": "2025-12-24T20:37:53.427Z"
     },
     {
-      "text": "Deploy mention",
-      "checkedAt": "2025-12-26T21:31:48.151Z"
+      "text": "Deploy mention"
     },
     {
       "text": "Active speaker muted",

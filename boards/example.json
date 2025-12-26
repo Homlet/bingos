@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-26T21:57:16.935Z",
+  "updatedAt": "2025-12-26T21:57:17.823Z",
   "size": 5,
   "items": [
     {
@@ -25,8 +25,7 @@
       "text": "Jira board pulled up"
     },
     {
-      "text": "Laptop stickers discussion",
-      "checkedAt": "2025-12-26T21:36:27.329Z"
+      "text": "Laptop stickers discussion"
     },
     {
       "text": "Holiday sweater cameo",

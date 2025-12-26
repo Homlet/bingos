@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-26T21:57:38.425Z",
+  "updatedAt": "2025-12-26T21:57:39.428Z",
   "size": 5,
   "items": [
     {
@@ -64,7 +64,8 @@
       "text": "New hire intro"
     },
     {
-      "text": "Automated test flake"
+      "text": "Automated test flake",
+      "checkedAt": "2025-12-26T21:57:39.428Z"
     },
     {
       "text": "Team shoutout"

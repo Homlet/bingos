@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-27T20:40:04.137Z",
+  "updatedAt": "2025-12-27T20:40:07.766Z",
   "size": 5,
   "items": [
     {
@@ -15,8 +15,7 @@
       "checkedAt": "2025-12-26T22:11:39.837Z"
     },
     {
-      "text": "Dog on camera",
-      "checkedAt": "2025-12-27T20:40:04.137Z"
+      "text": "Dog on camera"
     },
     {
       "text": "Meeting runs long"

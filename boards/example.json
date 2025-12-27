@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2025-12-27T21:11:04.602Z",
+  "updatedAt": "2025-12-27T21:11:05.892Z",
   "size": 5,
   "items": [
     {
@@ -79,7 +79,8 @@
       "text": "Camera off apology"
     },
     {
-      "text": "Leveling question"
+      "text": "Leveling question",
+      "checkedAt": "2025-12-27T21:11:05.892Z"
     },
     {
       "text": "Quarterly goal mention",

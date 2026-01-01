@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-01T20:59:13.240Z",
+  "updatedAt": "2026-01-01T21:22:55.357Z",
   "size": 5,
   "items": [
     {
@@ -31,7 +31,8 @@
       "checkedAt": "2025-12-26T21:57:40.437Z"
     },
     {
-      "text": "Holiday sweater cameo"
+      "text": "Holiday sweater cameo",
+      "checkedAt": "2026-01-01T21:22:55.357Z"
     },
     {
       "text": "Someone drinks from branded mug",

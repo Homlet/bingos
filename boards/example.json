@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-02T15:37:26.239Z",
+  "updatedAt": "2026-01-02T15:37:27.992Z",
   "size": 5,
   "items": [
     {
@@ -39,7 +39,8 @@
       "checkedAt": "2026-01-01T20:58:44.538Z"
     },
     {
-      "text": "Wifi drop"
+      "text": "Wifi drop",
+      "checkedAt": "2026-01-02T15:37:27.992Z"
     },
     {
       "text": "Deploy mention"

@@ -1,7 +1,7 @@
 {
   "board": "Office Holiday 2025",
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-02T15:37:43.718Z",
+  "updatedAt": "2026-01-02T15:37:44.693Z",
   "size": 5,
   "items": [
     {
@@ -13,7 +13,8 @@
       "checkedAt": "2026-01-01T20:58:39.875Z"
     },
     {
-      "text": "Late joiner asks for recap"
+      "text": "Late joiner asks for recap",
+      "checkedAt": "2026-01-02T15:37:44.693Z"
     },
     {
       "text": "Dog on camera",

@@ -52,7 +52,8 @@
       "text": "djgfd"
     },
     {
-      "text": "ghn"
+      "text": "ghn",
+      "checkedAt": "2026-01-05T15:17:38.870Z"
     },
     {
       "text": "hjgjhf",
@@ -154,5 +155,5 @@
     }
   ],
   "createdAt": "2026-01-05T15:17:25.480Z",
-  "updatedAt": "2026-01-05T15:17:37.771Z"
+  "updatedAt": "2026-01-05T15:17:38.870Z"
 }

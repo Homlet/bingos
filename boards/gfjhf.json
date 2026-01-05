@@ -46,7 +46,8 @@
       "text": "rfhjtg"
     },
     {
-      "text": "fjhg"
+      "text": "fjhg",
+      "checkedAt": "2026-01-05T15:17:39.844Z"
     },
     {
       "text": "djgfd"
@@ -155,5 +156,5 @@
     }
   ],
   "createdAt": "2026-01-05T15:17:25.480Z",
-  "updatedAt": "2026-01-05T15:17:38.870Z"
+  "updatedAt": "2026-01-05T15:17:39.844Z"
 }

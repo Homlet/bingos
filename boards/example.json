@@ -52,7 +52,8 @@
       "text": "Spreadsheet demo"
     },
     {
-      "text": "Slack notification chime"
+      "text": "Slack notification chime",
+      "checkedAt": "2026-01-13T13:23:20.472Z"
     },
     {
       "text": "New hire intro",
@@ -81,5 +82,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:23:18.919Z"
+  "updatedAt": "2026-01-13T13:23:20.472Z"
 }

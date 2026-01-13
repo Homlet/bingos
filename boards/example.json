@@ -9,7 +9,8 @@
       "text": "Unexpected production deploy"
     },
     {
-      "text": "Late joiner asks for recap"
+      "text": "Late joiner asks for recap",
+      "checkedAt": "2026-01-13T14:47:24.710Z"
     },
     {
       "text": "Dog on camera"
@@ -96,5 +97,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:25:12.304Z"
+  "updatedAt": "2026-01-13T14:47:24.710Z"
 }

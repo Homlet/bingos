@@ -23,7 +23,8 @@
       "text": "Laptop stickers discussion"
     },
     {
-      "text": "Holiday sweater cameo"
+      "text": "Holiday sweater cameo",
+      "checkedAt": "2026-01-13T13:23:06.535Z"
     },
     {
       "text": "Someone drinks from branded mug"
@@ -78,5 +79,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:22:53.344Z"
+  "updatedAt": "2026-01-13T13:23:06.535Z"
 }

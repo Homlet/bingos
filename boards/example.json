@@ -36,7 +36,8 @@
       "checkedAt": "2026-01-13T13:23:44.152Z"
     },
     {
-      "text": "Deploy mention"
+      "text": "Deploy mention",
+      "checkedAt": "2026-01-13T13:24:29.296Z"
     },
     {
       "text": "Active speaker muted",
@@ -91,5 +92,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:24:18.351Z"
+  "updatedAt": "2026-01-13T13:24:29.296Z"
 }

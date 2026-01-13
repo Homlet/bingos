@@ -55,7 +55,8 @@
       "text": "Slack notification chime"
     },
     {
-      "text": "New hire intro"
+      "text": "New hire intro",
+      "checkedAt": "2026-01-13T13:23:18.919Z"
     },
     {
       "text": "Automated test flake"
@@ -80,5 +81,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:23:09.687Z"
+  "updatedAt": "2026-01-13T13:23:18.919Z"
 }

@@ -47,7 +47,8 @@
       "text": "Screen share fails"
     },
     {
-      "text": "All hands reminder"
+      "text": "All hands reminder",
+      "checkedAt": "2026-01-13T13:23:42.943Z"
     },
     {
       "text": "Spreadsheet demo"
@@ -86,5 +87,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:23:33.991Z"
+  "updatedAt": "2026-01-13T13:23:42.943Z"
 }

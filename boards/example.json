@@ -64,8 +64,7 @@
       "text": "New hire intro"
     },
     {
-      "text": "Automated test flake",
-      "checkedAt": "2026-01-01T20:58:43.118Z"
+      "text": "Automated test flake"
     },
     {
       "text": "Team shoutout"
@@ -87,5 +86,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:22:44.198Z"
+  "updatedAt": "2026-01-13T13:22:45.191Z"
 }

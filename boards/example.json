@@ -47,7 +47,8 @@
       "checkedAt": "2026-01-13T13:23:23.712Z"
     },
     {
-      "text": "Someone says let's park it"
+      "text": "Someone says let's park it",
+      "checkedAt": "2026-01-13T13:25:12.304Z"
     },
     {
       "text": "Screen share fails",
@@ -95,5 +96,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-13T13:25:10.137Z"
+  "updatedAt": "2026-01-13T13:25:12.304Z"
 }

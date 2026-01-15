@@ -49,7 +49,8 @@
       "checkedAt": "2026-01-15T10:23:24.840Z"
     },
     {
-      "text": "Screen share fails"
+      "text": "Screen share fails",
+      "checkedAt": "2026-01-15T10:23:47.008Z"
     },
     {
       "text": "All hands reminder",
@@ -93,5 +94,5 @@
     }
   ],
   "createdAt": "2025-12-01T09:00:00Z",
-  "updatedAt": "2026-01-15T10:23:45.160Z"
+  "updatedAt": "2026-01-15T10:23:47.008Z"
 }
